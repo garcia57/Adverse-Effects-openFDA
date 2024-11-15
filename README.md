@@ -1,4 +1,4 @@
-# Adverse-Effects-openFDA
+# Adverse-Effects-Sentiment-Reviews-Ozempic
 
 ## Dataset Description
 This dataset provides detailed records of reported adverse drug events, including information on the patient demographics, event seriousness, drug characterization, and routes of administration.
